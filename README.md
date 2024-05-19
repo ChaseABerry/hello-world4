@@ -1,2 +1,2 @@
 # hello-world4
-This repository is for practicing the GitHub hello world execises. 
+My name is Chase Berry and I am a UTC student. My major is computer science and I plan to pursue cyber secuirty as a carrer. I want to be able to take care of my familky and my future wife and kids. 
